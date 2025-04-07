@@ -3,7 +3,7 @@
 ## Description
 
 This repository contains the MATLAB code that accompanies the paper 
-> Lukas Schwenkel, Johannes Köhler, Matthias A. Müller, Frank Allgöwer "Output-feedback model predictive control under dynamic uncertainties using integral quadratic constraints", 2025, arXiv.
+> Lukas Schwenkel, Johannes Köhler, Matthias A. Müller, Frank Allgöwer "Output-feedback model predictive control under dynamic uncertainties using integral quadratic constraints", 2025, [arXiv:2504.00196](https://arxiv.org/abs/2504.00196).
 
 
 ## Prerequisites
@@ -33,8 +33,9 @@ If you use this code in your research, please cite our work:
 @article{Schwenkel2025,
   title={Output-feedback model predictive control under dynamic uncertainties using integral quadratic constraints},
   author={L. Schwenkel and J. K{\"o}hler and M. A. M{\"u}ller and F. Allg{\"o}wer}},
-  year={2025}
-  journal={arxiv}
+  year={2025},
+  journal={arxiv:2504.00196},
+  doi = {10.48550/arXiv.2504.00196},
 }
 ```
   
